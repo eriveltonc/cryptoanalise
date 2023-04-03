@@ -28,4 +28,4 @@ Para utilizar o código, basta executar o arquivo `Volatilidade_analise.ipynb` e
 
 O arquivo irá coletar os dados históricos de todos os pares USDT disponíveis na Binance e analisá-los para analisar a volatilidade dos ativos.
 
-O resultado da análise será apresentado em gráficos, que podem ser interpretados para identificar as melhores oportunidades de investimento.
+O resultado da análise será apresentado em gráficos, que podem ser interpretados compreender o comportamento do mercado.
