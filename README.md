@@ -24,8 +24,8 @@ Além disso, é necessário instalar as seguintes bibliotecas em Python:
 
 ## Como utilizar
 
-Para utilizar o código, basta executar o arquivo `binance.py` em um ambiente de desenvolvimento Python, como o Jupyter Notebook ou o Google Colab.
+Para utilizar o código, basta executar o arquivo `Volatilidade_analise.ipynb` em um ambiente de desenvolvimento Python, como o Jupyter Notebook ou o Google Colab.
 
-O arquivo irá coletar os dados históricos de todos os pares USDT disponíveis na Binance e analisá-los para identificar oportunidades de investimento.
+O arquivo irá coletar os dados históricos de todos os pares USDT disponíveis na Binance e analisá-los para analisar a volatilidade dos ativos.
 
-O resultado da análise será apresentado em gráficos, que podem ser interpretados para identificar as melhores oportunidades de investimento.
+O resultado da análise será apresentado em gráficos, que podem ser interpretados compreender o comportamento do mercado.
